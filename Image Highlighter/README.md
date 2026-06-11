@@ -40,7 +40,7 @@ Add lightbox/modal image preview
 Include image upload functionality
 Integrate API-based image fetching
 
-Live Demo: https://lnkd.in/gSbifJax
+Live Demo: https://liveimagegallery.netlify.app/
 
 ##Author##
 Harini Nagarajan
